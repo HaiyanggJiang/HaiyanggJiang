@@ -39,7 +39,7 @@ I am currently a master in the <a href="https://cs.wit.edu.cn/">School of Comput
 
  ## 📊My Github Stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HaiyanggJiang&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HaiyanggJiang&theme=radical&hide_border=true"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=HaiyanggJiang&theme=radical&hide_border=true"/>
 
 
 
