@@ -1,12 +1,14 @@
 
 <h1 align="center" style="margin-bottom: 0;">Hi , I'm Haiyang Jiang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<div style="text-align: center;">
-<img src="https://komarev.com/ghpvc/?username=HaiyanggJiang&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
+<p align="center" style="margin: 15px 0;">
+  <img src="https://komarev.com/ghpvc/?username=HaiyanggJiang&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-Image Fusion-brightgreen" />
-  <a href="mailto:j864308526@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/HaiyanggJiang"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
+  <img src="https://img.shields.io/badge/Lives-China-success" />
+  <a href="mailto:j864308526@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/HaiyanggJiang"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 <div style="border-bottom: 3px solid #1f1e19; width: 100%; margin: 0 auto;"></div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -48,4 +50,3 @@ I am currently a master in the <a href="https://cs.wit.edu.cn/">School of Comput
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
-
