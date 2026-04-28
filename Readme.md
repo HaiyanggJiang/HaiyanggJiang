@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+<p align="center"><img src="c36b06f5707327b41c309ca601b112e1.jpg"></p>
 <h1 align="center" style="margin-bottom: 0;">Hi , I'm Haiyang Jiang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center" style="margin: 15px 0;">
