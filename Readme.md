@@ -40,8 +40,6 @@ I am currently a master in the <a href="https://cs.wit.edu.cn/">School of Comput
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=HaiyanggJiang&theme=radical&hide_border=true"/>
 
 
-## 🚀 My Latest Update :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HaiyanggJiang&repo=HaiyanggJiang&theme=radical)](https://github.com/HaiyanggJiang/HaiyanggJiang)
 
 ---
 <p align = "center">
