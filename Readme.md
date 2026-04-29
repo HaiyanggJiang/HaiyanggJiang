@@ -19,7 +19,7 @@ I am currently a master in the <a href="https://cs.wit.edu.cn/">School of Comput
 ## 📝Publications
 * ✨ **PhyFusion: Physics-Aware Infrared and Visible Image Fusion via Modality-Specific Physical Priors** <br>
     **Haiyang Jiang**, Huiqin Zhang, Yanduo Zhang,Jiayi Ma, Junjun Jiang, Huabing Zhou <br>
-    **CVPR Finds**, 2026. <br>
+    **CVPR Findings**, 2026. <br>
     [![Paper](https://img.shields.io/badge/Paper-CVPR_2026-blue)](1)  [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](1)
 
 * ✨ **A DINO-Based Progressive Semantic Enhanced Infrared And Visible Image Fusion Network** <br>
