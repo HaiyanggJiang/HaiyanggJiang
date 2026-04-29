@@ -3,7 +3,7 @@
 
 <p align="center" style="margin: 15px 0;">
   <img src="https://komarev.com/ghpvc/?username=HaiyanggJiang&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-  <img src="https://img.shields.io/badge/Age-24-blue" />
+  <!-- <img src="https://img.shields.io/badge/Age-24-blue" /> -->
   <img src="https://img.shields.io/badge/Focus-Image Fusion-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-China-success" />
   <a href="mailto:j864308526@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
